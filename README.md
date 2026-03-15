@@ -1,4 +1,4 @@
-# lambda-image-resizer
+# serverless-image-resizer
 
 A lightweight **AWS Lambda utility** for resizing images in a serverless workflow.
 
